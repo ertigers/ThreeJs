@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="4px" viewBox="0 0 512 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>BASE-LINE</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="主页" transform="translate(-470.000000, -199.000000)">
+            <g id="编组-22" transform="translate(470.000000, 130.000000)">
+                <g id="BASE-LINE" transform="translate(0.000000, 69.000000)">
+                    <rect id="矩形" fill="#3793FF" opacity="0.400000006" x="56" y="1" width="456" height="2"></rect>
+                    <rect id="矩形" fill="#3793FF" x="0" y="0" width="24" height="4"></rect>
+                    <rect id="矩形备份-8" fill="#FFB808" x="28" y="0" width="24" height="4"></rect>
+                    <polygon id="矩形备份-21" fill="#3793FF" points="488 0 512 0 512 4 488 4"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ico_Community</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#D5F8FF" offset="0%"></stop>
+            <stop stop-color="#00FF87" offset="100%"></stop>
+        </linearGradient>
+        <path d="M25,13 L25,25 L16.0120141,24.9999488 L16,49.0000512 L8,49.0000512 L8,13 L25,13 Z M41,7 L41,8 L43,8 L43.1450409,29.0193959 L39,29.0193447 L39,49.0000512 L31,49.0000512 L30.9742146,7.9999488 L33,8 L33.0257854,7 L41,7 Z M48,31 L48,49.0000512 L41,49.0000512 L41,31 L48,31 Z M27,24 L29,24.0448037 L29,49.0000512 L18.0632801,49.0000512 L18,27 L27,27 L27,24 Z M13,25 L11,25 L11,47 L13,47 L13,25 Z M35,10 L34,10 L34,47 L35,47 L35,10 Z M27,29 L20,29 L20,47 L21,47 L21,30 L27,30 L27,29 Z M40,10 L39,10 L39,27 L40,27 L40,10 Z M23,20 L11,20 L11,22 L23,22 L23,20 Z M23,16 L11,16 L11,18 L23,18 L23,16 Z" id="path-2"></path>
+        <filter x="-24.4%" y="-23.2%" width="148.8%" height="146.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.25" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.601788949   0 0 0 0 0.393378758  0 0 0 0.70036604 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="ico_Community" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="城市">
+            <rect id="矩形" stroke="#9D9D9D" stroke-width="2" fill="#D8D8D8" opacity="0" x="1" y="1" width="54" height="54"></rect>
+            <g id="形状" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

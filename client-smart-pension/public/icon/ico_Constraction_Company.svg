@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ico_Constraction_Company</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#B9B9B9" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M26.0888894,21.8889169 L11.6666695,26.5333715 L11.6666695,50.0000555 L8,50.0000555 L8,47.3111582 L9.22222173,47.3111582 L9.22222173,25.0666831 L20.2222345,21.4000136 L20.2222345,14.8000059 L40.7778081,5.9999957 L46.1556112,9.42222 L46,46.9999957 L48,46.9999957 L48,50.0000555 L37.8445086,50.0000555 L37.8445086,9.91111041 L22.4222887,16.0222191 L22.4222887,20.177779 L28.2889478,18.2222216 L33.666751,21.400005 L33.666751,47.0666872 L36.8667535,47.0666872 L36.8667535,50.0000555 L26.0889453,50.0000555 L26.0888894,21.8889169 Z M24,45.5333114 L24,50 L13.3777731,50.0000508 L13.3777731,45.8444909 L24,45.5333114 Z M13.3777731,39.9778321 L24,38.6888757 L24,43.0888808 L13.3777731,44.133392 L13.3777731,39.9778321 Z M13.3777731,34.3556224 L24,31.84444 L24,36.2444451 L13.3777731,38.2667372 L13.3777731,34.3556224 Z M13.3777731,28.2445138 L24,25 L24,29.4000051 L13.3777731,32.6445189 L13.3777731,28.2445138 Z" id="path-2"></path>
+        <filter x="-24.4%" y="-22.3%" width="148.8%" height="144.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.25" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.548375226   0 0 0 0 0.548375226   0 0 0 0 0.548375226  0 0 0 0.70036604 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="ico_Constraction_Company" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="56" height="56"></rect>
+            <g id="形状" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

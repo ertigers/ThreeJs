@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1310px" height="80px" viewBox="0 0 1310 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.8667469%" y1="0%" x2="50.8667469%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00438F" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#002E80" stop-opacity="0.276824738" offset="30.4159628%"></stop>
+            <stop stop-color="#00319B" stop-opacity="0.773355551" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50.8003371%" cy="100%" fx="50.8003371%" fy="100%" r="50.860334%" gradientTransform="translate(0.508003,1.000000),scale(0.061069,1.000000),rotate(90.000000),scale(1.000000,8.770066),translate(-0.508003,-1.000000)" id="radialGradient-2">
+            <stop stop-color="#00F2FF" stop-opacity="0.487571023" offset="0%"></stop>
+            <stop stop-color="#0074FF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <path d="M1935,990 L1827.1652,1063.10834 C1820.54099,1067.59933 1812.72193,1070 1804.71887,1070 L755.281134,1070 C747.278069,1070 739.459006,1067.59933 732.834801,1063.10834 L625,990 L625,990 L1935,990 Z" id="path-3"></path>
+        <filter x="-0.4%" y="-6.2%" width="100.8%" height="112.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="4" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.913133741   0 0 0 0 1  0 0 0 0.154419799 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="主页" transform="translate(-625.000000, -990.000000)">
+            <g id="矩形" transform="translate(1280.000000, 1030.000000) scale(1, -1) translate(-1280.000000, -1030.000000) ">
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <path stroke="url(#radialGradient-2)" stroke-width="2" d="M1931.74297,991 L628.257028,991 L733.39596,1062.28063 C739.854559,1066.65934 747.478146,1069 755.281134,1069 L1804.71887,1069 C1812.52185,1069 1820.14544,1066.65934 1826.60404,1062.28063 L1931.74297,991 Z" stroke-linejoin="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

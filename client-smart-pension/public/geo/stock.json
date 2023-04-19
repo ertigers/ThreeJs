@@ -1,0 +1,142 @@
+[
+  {
+    "name": "护士",
+    "sales": 12,
+    "stock": 20
+  },
+  {
+    "name": "护师",
+    "sales": 3,
+    "stock": 20
+  },
+  {
+    "name": "护理人员",
+    "sales": 23,
+    "stock": 20
+  },
+  {
+    "name": "社工",
+    "sales": 10,
+    "stock": 20
+  },
+  {
+    "name": "医师",
+    "sales": 8,
+    "stock": 20
+  },
+  {
+    "name": "心理咨询师",
+    "sales": 33,
+    "stock": 20
+  },
+  {
+    "name": "服务人员",
+    "sales": 8,
+    "stock": 20
+  },
+  {
+    "name": "其他",
+    "sales": 9,
+    "stock": 20
+  },
+  {
+    "name": "护士",
+    "sales": 12,
+    "stock": 20
+  },
+  {
+    "name": "护师",
+    "sales": 3,
+    "stock": 20
+  },
+  {
+    "name": "护理人员",
+    "sales": 23,
+    "stock": 20
+  },
+  {
+    "name": "社工",
+    "sales": 10,
+    "stock": 20
+  },
+  {
+    "name": "医师",
+    "sales": 8,
+    "stock": 20
+  },
+  {
+    "name": "心理咨询师",
+    "sales": 33,
+    "stock": 20
+  },
+  {
+    "name": "服务人员",
+    "sales": 8,
+    "stock": 20
+  },
+  {
+    "name": "其他",
+    "sales": 9,
+    "stock": 20
+  },
+  {
+    "name": "护理人员",
+    "sales": 23,
+    "stock": 20
+  },
+  {
+    "name": "社工",
+    "sales": 10,
+    "stock": 20
+  },
+  {
+    "name": "医师",
+    "sales": 8,
+    "stock": 20
+  },
+  {
+    "name": "心理咨询师",
+    "sales": 33,
+    "stock": 20
+  },
+  {
+    "name": "服务人员",
+    "sales": 8,
+    "stock": 20
+  },
+  {
+    "name": "其他",
+    "sales": 9,
+    "stock": 20
+  },
+  {
+    "name": "护理人员",
+    "sales": 23,
+    "stock": 20
+  },
+  {
+    "name": "社工",
+    "sales": 10,
+    "stock": 20
+  },
+  {
+    "name": "医师",
+    "sales": 8,
+    "stock": 20
+  },
+  {
+    "name": "心理咨询师",
+    "sales": 33,
+    "stock": 20
+  },
+  {
+    "name": "服务人员",
+    "sales": 8,
+    "stock": 20
+  },
+  {
+    "name": "其他",
+    "sales": 9,
+    "stock": 20
+  }
+]

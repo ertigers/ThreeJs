@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580px" height="74px" viewBox="0 0 580 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Title_wing</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#3863FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#3571FF" offset="20%"></stop>
+            <stop stop-color="#2AA4FF" offset="50%"></stop>
+            <stop stop-color="#20CEFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <path d="M0,2 L451.439935,21.3336161 C461.447408,21.7622016 470.929875,25.9298748 478.012713,33.0127129 L497.481343,52.4813427 C503.656947,58.656947 511.684046,62.6416502 520.336861,63.8269673 L580,72 L580,72" id="Title_wing" stroke="url(#linearGradient-1)" stroke-width="4"></path>
+    </g>
+</svg>

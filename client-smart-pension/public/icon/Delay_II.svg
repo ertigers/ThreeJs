@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Delay_II</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFA600" offset="0%"></stop>
+            <stop stop-color="#FFF8E8" offset="100%"></stop>
+        </linearGradient>
+        <path d="M12,0 C18.627417,0 24,5.372583 24,12 C24,13.0362344 23.8686559,14.0417918 23.6217076,15.0009322 L21.5419205,15.0008825 C21.8395465,14.0535849 22,13.0455304 22,12 C22,6.4771525 17.5228475,2 12,2 C6.4771525,2 2,6.4771525 2,12 C2,17.5228475 6.4771525,22 12,22 C13.0915971,22 14.1423431,21.8250957 15.1257423,21.5017828 L16.3814222,23.1749861 C15.0241109,23.7075649 13.5462064,24 12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 Z M23,17 L19,22 L15,17 L23,17 Z M13,19 L13,21 L11,21 L11,19 L13,19 Z M13,6 L12.9993593,11.586 L13.4142136,12 L12.9993593,12.414 L13,13 L12.4133593,13 L9.17157288,16.2426407 L7.75735931,14.8284271 L10.9993593,11.585 L11,6 L13,6 Z M5,11 L5,13 L3,13 L3,11 L5,11 Z M21,11 L21,13 L19,13 L19,11 L21,11 Z M13,3 L13,5 L11,5 L11,3 L13,3 Z" id="path-2"></path>
+        <filter x="-12.5%" y="-12.5%" width="125.0%" height="125.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.615111451   0 0 0 0 0  0 0 0 0.774366259 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-28" transform="translate(-4.000000, -32.000000)">
+            <g id="编组-9备份-7">
+                <g id="编组-30" transform="translate(6.000000, 34.000000)">
+                    <g id="Delay_II">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

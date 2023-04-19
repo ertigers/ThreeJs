@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ico_Equipments_03</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#FFE6E6" offset="0%"></stop>
+            <stop stop-color="#FF6767" offset="100%"></stop>
+        </linearGradient>
+        <path d="M6,8 L30,8 L30,10 L29,10 L29,15 C29,15.5522847 28.5522847,16 28,16 L8,16 C7.44771525,16 7,15.5522847 7,15 L7,10 L7,10 L6,10 L6,8 Z M12,22 C11.3333333,22.3333333 11,23 11,24 C11,25.5 12,25.5 12,27 C12,28 11.6666667,28.6666667 11,29 L9,29 C9.66666667,28.6666667 10,28 10,27 C10,25.5 9,25.5 9,24 C9,23 9.33333333,22.3333333 10,22 L12,22 Z M27,22 C26.3333333,22.3333333 26,23 26,24 C26,25.5 27,25.5 27,27 C27,28 26.6666667,28.6666667 26,29 L24,29 C24.6666667,28.6666667 25,28 25,27 C25,25.5 24,25.5 24,24 C24,23 24.3333333,22.3333333 25,22 L27,22 Z M22,22 C21.3333333,22.3333333 21,23 21,24 C21,25.5 22,25.5 22,27 C22,28 21.6666667,28.6666667 21,29 L19,29 C19.6666667,28.6666667 20,28 20,27 C20,25.5 19,25.5 19,24 C19,23 19.3333333,22.3333333 20,22 L22,22 Z M17,22 C16.3333333,22.3333333 16,23 16,24 C16,25.5 17,25.5 17,27 C17,28 16.6666667,28.6666667 16,29 L14,29 C14.6666667,28.6666667 15,28 15,27 C15,25.5 14,25.5 14,24 C14,23 14.3333333,22.3333333 15,22 L17,22 Z M26.881966,18 C27.2635854,18 27.572949,18.3093636 27.572949,18.690983 C27.572949,18.7982547 27.5479734,18.9040533 27.5,19 L27.2763932,19.4472136 C27.1070012,19.7859976 26.7607381,20 26.381966,20 L9.61803399,20 C9.23926193,20 8.89299881,19.7859976 8.7236068,19.4472136 L8.5,19 C8.32933463,18.6586693 8.46768625,18.2436144 8.80901699,18.072949 C8.90496374,18.0249756 9.01076227,18 9.11803399,18 L26.881966,18 Z" id="path-2"></path>
+        <filter x="-40.6%" y="-46.4%" width="181.2%" height="192.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.25" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0   0 0 0 0 0  0 0 0 0.70036604 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="ico_Equipments_03" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-37">
+            <rect id="矩形" stroke="#9D9D9D" stroke-width="2" fill="#D8D8D8" opacity="0" x="1" y="1" width="34" height="34"></rect>
+            <g id="形状结合" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

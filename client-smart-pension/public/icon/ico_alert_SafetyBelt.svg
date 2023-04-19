@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ico_alert_SafetyBelt</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF3900" offset="0%"></stop>
+            <stop stop-color="#FF8B8B" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="49.9155762%" id="radialGradient-2">
+            <stop stop-color="#FF0000" offset="0%"></stop>
+            <stop stop-color="#FF6600" stop-opacity="0.15" offset="60.9352172%"></stop>
+            <stop stop-color="#FF5400" stop-opacity="0" offset="99.9155405%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FF4D4D" offset="0%"></stop>
+            <stop stop-color="#FFB558" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ico_alert_SafetyBelt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ico_alert_AnQuanDai">
+            <path d="M48,20.1547005 L23.8852633,34.0773503 L23.8852633,61.9226497 L48,75.8452995 L72.1147367,61.9226497 L72.1147367,34.0773503 L48,20.1547005 Z" id="多边形" stroke="url(#linearGradient-1)" stroke-width="2" fill-opacity="0" fill="#D8D8D8"></path>
+            <path d="M20.9810023,65.5149701 L45.941007,79.8862275 L45.941,96 L43.94,96 L43.941,81.042 L20.981,67.822 L0,79.902 L0,77.595 L20.9810023,65.5149701 Z M75.0209977,65.5149701 L96,77.594 L96,79.902 L75.021,67.822 L52.06,81.042 L52.059,96 L50.06,96 L50.060993,79.8862275 L75.0209977,65.5149701 Z M0,22.285 L18.9210094,33.1796407 L18.9210094,61.9221557 L0,72.816 L0,70.507 L16.921,60.765 L16.921,34.335 L0,24.591 L0,22.285 Z M96,22.286 L96,24.592 L79.08,34.335 L79.08,60.765 L96,70.507 L96,72.815 L77.0809906,61.9221557 L77.0809906,33.1796407 L96,22.286 Z M45.941,0 L45.941007,16.1137725 L20.9810023,30.4850299 L0,18.404 L0,16.097 L20.981,28.177 L43.941,14.957 L43.94,0 L45.941,0 Z M52.059,0 L52.06,14.957 L75.021,28.177 L96,16.097 L96,18.405 L75.0209977,30.4850299 L50.060993,16.1137725 L50.06,0 L52.059,0 Z" id="形状结合" fill="url(#radialGradient-2)"></path>
+            <path d="M43,50 C43.5522847,50 44,50.4477153 44,51 L44,54 L52,54 L52,51 C52,50.4477153 52.4477153,50 53,50 L57,50 C57.5522847,50 58,50.4477153 58,51 L58,57.4384472 C58,58.3561825 57.3754053,59.1561487 56.4850713,59.3787322 L54,60 L54,66 L42,66 L42,60 L39.5149287,59.3787322 C38.6245947,59.1561487 38,58.3561825 38,57.4384472 L38,51 C38,50.4477153 38.4477153,50 39,50 L43,50 Z M54,30 L54,36 L57,36 C57.5522847,36 58,36.4477153 58,37 L58,42 C58,42.5522847 57.5522847,43 57,43 L54,43 L54,47 C54,47.5522847 53.5522847,48 53,48 L43,48 C42.4477153,48 42,47.5522847 42,47 L42,43 L39,43 C38.4477153,43 38,42.5522847 38,42 L38,37 C38,36.4477153 38.4477153,36 39,36 L42,36 L42,30 L54,30 Z M45,42 L51,42 L51,45 L45,45 L45,42 Z" id="形状结合" fill="url(#linearGradient-3)" transform="translate(48.000000, 48.000000) rotate(60.000000) translate(-48.000000, -48.000000) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,343 @@
+[
+  {
+    "color": ["#FE9A9B", "#F6B7BA"],
+    "data": [
+      {
+        "name": "一栋",
+        "value": 20
+      },
+      {
+        "name": "二栋",
+        "value": 50
+      },
+      {
+        "name": "三栋",
+        "value": 30
+      },
+      {
+        "name": "四栋",
+        "value": 30
+      },
+      {
+        "name": "五栋",
+        "value": 20
+      },
+      {
+        "name": "六栋",
+        "value": 60
+      },
+      {
+        "name": "七栋",
+        "value": 70
+      },
+      {
+        "name": "八栋",
+        "value": 60
+      },
+      {
+        "name": "九栋",
+        "value": 50
+      },
+      {
+        "name": "十栋",
+        "value": 10
+      },
+      {
+        "name": "十一栋",
+        "value": 20
+      },
+      {
+        "name": "十二栋",
+        "value": 20
+      },
+      {
+        "name": "十三栋",
+        "value": 30
+      },
+      {
+        "name": "十四栋",
+        "value": 50
+      },
+      {
+        "name": "十五栋",
+        "value": 70
+      },
+      {
+        "name": "十六栋",
+        "value": 40
+      },
+      {
+        "name": "十七栋",
+        "value": 10
+      },
+      {
+        "name": "十八栋",
+        "value": 20
+      },
+      {
+        "name": "十九栋",
+        "value": 10
+      },
+      {
+        "name": "二十栋",
+        "value": 20
+      },
+      {
+        "name": "二十一栋",
+        "value": 10
+      },
+      {
+        "name": "一栋",
+        "value": 20
+      },
+      {
+        "name": "二栋",
+        "value": 50
+      },
+      {
+        "name": "三栋",
+        "value": 30
+      },
+      {
+        "name": "四栋",
+        "value": 30
+      },
+      {
+        "name": "五栋",
+        "value": 20
+      },
+      {
+        "name": "六栋",
+        "value": 60
+      },
+      {
+        "name": "七栋",
+        "value": 70
+      },
+      {
+        "name": "八栋",
+        "value": 60
+      },
+      {
+        "name": "九栋",
+        "value": 50
+      },
+      {
+        "name": "十栋",
+        "value": 10
+      },
+      {
+        "name": "十一栋",
+        "value": 20
+      },
+      {
+        "name": "十二栋",
+        "value": 20
+      },
+      {
+        "name": "十三栋",
+        "value": 30
+      },
+      {
+        "name": "十四栋",
+        "value": 50
+      },
+      {
+        "name": "十五栋",
+        "value": 70
+      },
+      {
+        "name": "十六栋",
+        "value": 40
+      },
+      {
+        "name": "十七栋",
+        "value": 10
+      },
+      {
+        "name": "十八栋",
+        "value": 20
+      },
+      {
+        "name": "十九栋",
+        "value": 10
+      },
+      {
+        "name": "二十栋",
+        "value": 20
+      },
+      {
+        "name": "二十一栋",
+        "value": 10
+      },
+      {
+        "name": "一栋",
+        "value": 20
+      },
+      {
+        "name": "二栋",
+        "value": 50
+      },
+      {
+        "name": "三栋",
+        "value": 30
+      },
+      {
+        "name": "四栋",
+        "value": 30
+      },
+      {
+        "name": "五栋",
+        "value": 20
+      },
+      {
+        "name": "六栋",
+        "value": 60
+      },
+      {
+        "name": "七栋",
+        "value": 70
+      },
+      {
+        "name": "八栋",
+        "value": 60
+      },
+      {
+        "name": "九栋",
+        "value": 50
+      },
+      {
+        "name": "十栋",
+        "value": 10
+      },
+      {
+        "name": "十一栋",
+        "value": 20
+      },
+      {
+        "name": "十二栋",
+        "value": 20
+      },
+      {
+        "name": "十三栋",
+        "value": 30
+      },
+      {
+        "name": "十四栋",
+        "value": 50
+      },
+      {
+        "name": "十五栋",
+        "value": 70
+      },
+      {
+        "name": "十六栋",
+        "value": 40
+      },
+      {
+        "name": "十七栋",
+        "value": 10
+      },
+      {
+        "name": "十八栋",
+        "value": 20
+      },
+      {
+        "name": "十九栋",
+        "value": 10
+      },
+      {
+        "name": "二十栋",
+        "value": 20
+      },
+      {
+        "name": "二十一栋",
+        "value": 10
+      },
+      {
+        "name": "一栋",
+        "value": 20
+      },
+      {
+        "name": "二栋",
+        "value": 50
+      },
+      {
+        "name": "三栋",
+        "value": 30
+      },
+      {
+        "name": "四栋",
+        "value": 30
+      },
+      {
+        "name": "五栋",
+        "value": 20
+      },
+      {
+        "name": "六栋",
+        "value": 60
+      },
+      {
+        "name": "七栋",
+        "value": 70
+      },
+      {
+        "name": "八栋",
+        "value": 60
+      },
+      {
+        "name": "九栋",
+        "value": 50
+      },
+      {
+        "name": "十栋",
+        "value": 10
+      },
+      {
+        "name": "十一栋",
+        "value": 20
+      },
+      {
+        "name": "十二栋",
+        "value": 20
+      },
+      {
+        "name": "十三栋",
+        "value": 30
+      },
+      {
+        "name": "十四栋",
+        "value": 50
+      },
+      {
+        "name": "十五栋",
+        "value": 70
+      },
+      {
+        "name": "十六栋",
+        "value": 40
+      },
+      {
+        "name": "十七栋",
+        "value": 10
+      },
+      {
+        "name": "十八栋",
+        "value": 20
+      },
+      {
+        "name": "十九栋",
+        "value": 10
+      },
+      {
+        "name": "二十栋",
+        "value": 20
+      },
+      {
+        "name": "二十一栋",
+        "value": 10
+      }
+    ]
+  }
+]

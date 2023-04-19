@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="32px" viewBox="0 0 360 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Frm_Title</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100.847527%" y1="674.852406%" x2="0%" y2="674.852406%" id="linearGradient-1">
+            <stop stop-color="#00ABF4" stop-opacity="0.501720935" offset="0%"></stop>
+            <stop stop-color="#0093F9" stop-opacity="0.251884834" offset="49.720228%"></stop>
+            <stop stop-color="#007BFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Frm_Title" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-11">
+            <g id="编组备份-2">
+                <rect id="矩形" fill="url(#linearGradient-1)" opacity="0" x="0" y="0" width="360" height="32"></rect>
+                <polygon id="矩形" fill="#0083FF" opacity="0.200000003" points="6 31 360 31 360 32 6 32"></polygon>
+                <rect id="矩形" fill="#0083FF" x="350" y="31" width="10" height="1"></rect>
+                <polygon id="矩形" fill="#0083FF" points="0 31 4 31 4 32 0 32"></polygon>
+                <g id="编组-3" transform="translate(6.000000, 8.000000)">
+                    <polygon id="矩形" fill="#0068FF" points="10.5 0 24 0 19.5 12 6 12"></polygon>
+                    <polygon id="矩形备份" fill="#00FFBE" opacity="0.800000012" points="4.5 4 18 4 13.5 16 0 16"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

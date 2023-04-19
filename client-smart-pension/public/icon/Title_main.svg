@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="860px" height="100px" viewBox="0 0 860 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Title_main</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.8667469%" y1="0%" x2="50.8667469%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#8397AD" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#5B81C6" stop-opacity="0.0505354021" offset="30.4159628%"></stop>
+            <stop stop-color="#0051FF" stop-opacity="0.443973995" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50.8003371%" cy="100%" fx="50.8003371%" fy="100%" r="50.860334%" gradientTransform="translate(0.508003,1.000000),scale(0.116279,1.000000),rotate(90.000000),scale(1.000000,8.770066),translate(-0.508003,-1.000000)" id="radialGradient-2">
+            <stop stop-color="#00F2FF" stop-opacity="0.487571023" offset="0%"></stop>
+            <stop stop-color="#0074FF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <path d="M860,0 L794.011008,84.6012719 C786.43124,94.3189237 774.795105,100 762.470916,100 L97.5290844,100 C85.204895,100 73.5687605,94.3189237 65.9889921,84.6012719 L0,0 L0,0 L860,0 Z" id="path-3"></path>
+        <filter x="-0.6%" y="-5.0%" width="101.2%" height="110.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="4" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.913133741   0 0 0 0 1  0 0 0 0.154419799 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Title_main">
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-3"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <path stroke="url(#radialGradient-2)" stroke-width="2" d="M857.951773,1 L2.04822711,1 L66.7774944,83.9862401 C74.1677686,93.4609506 85.5129997,99 97.5290844,99 L762.470916,99 C774.487,99 785.832231,93.4609506 793.222506,83.9862401 L857.951773,1 Z" stroke-linejoin="square"></path>
+        </g>
+    </g>
+</svg>

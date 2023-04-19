@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ico_Equipments_01</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#FFE6E6" offset="0%"></stop>
+            <stop stop-color="#FF6767" offset="100%"></stop>
+        </linearGradient>
+        <path d="M21,12 L21.6832816,12.3416408 C23.7159857,13.3579929 25,15.4355716 25,17.7082039 L25,31 C25,31.5522847 24.5522847,32 24,32 L12,32 C11.4477153,32 11,31.5522847 11,31 L11,17.7082039 C11,15.4355716 12.2840143,13.3579929 14.3167184,12.3416408 L15,12 L21,12 Z M13,6 L13,8 L11,8 C8.85780461,8 7.10892112,9.68396847 7.00489531,11.8003597 L7,12 L5,12 C5,8.6862915 7.6862915,6 11,6 L13,6 Z M29.980762,4.52550443 C29.993525,4.57017516 30,4.61640673 30,4.66286499 L30,10.337135 C30,10.6132774 29.7761424,10.837135 29.5,10.837135 C29.4535417,10.837135 29.4073102,10.83066 29.3626394,10.817897 L23,9 L23,6 L29.3626394,4.18210302 C29.6281569,4.10624087 29.9048998,4.25998692 29.980762,4.52550443 Z M20,4 C20.5522847,4 21,4.44771525 21,5 L21,10 L15,10 L15,5 C15,4.44771525 15.4477153,4 16,4 L20,4 Z" id="path-2"></path>
+        <filter x="-39.0%" y="-34.8%" width="178.0%" height="169.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.25" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0   0 0 0 0 0  0 0 0 0.70036604 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="ico_Equipments_01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-37">
+            <rect id="矩形" stroke="#9D9D9D" stroke-width="2" fill="#D8D8D8" opacity="0" x="1" y="1" width="34" height="34"></rect>
+            <g id="形状结合" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

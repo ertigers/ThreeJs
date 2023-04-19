@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  overflow: hidden;
+  background: #000000;
+  font-family: abduction;
+  cursor: none;
+}
+
+@font-face {
+  font-family: abduction;
+  src: url('../../../public/fonts/abduction.ttf');
+}
+
+::-webkit-scrollbar {
+  background: 0 0!important;
+  cursor: pointer!important;
+  width: 4px!important;
+}
+
+::-webkit-scrollbar-thumb, ::-webkit-scrollbar-thumb:active {
+  background-color: rgba(3,192,60,.5)!important;
+}

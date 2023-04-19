@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>FRM_Img</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FRM_Img">
+            <polygon id="矩形" fill="#FFB100" points="0 0 20 0 20 2 2 2 2 20 0 20"></polygon>
+            <polygon id="矩形" fill="#FFB100" points="80 80 60 80 60 78 78 78 78 60 80 60"></polygon>
+            <polygon id="矩形备份-9" fill="#FFFFFF" opacity="0.200000003" transform="translate(55.000000, 25.000000) scale(-1, 1) translate(-55.000000, -25.000000) " points="30 0 80 0 80 2 32 2 32 50 30 50"></polygon>
+            <polygon id="矩形备份-8" fill="#FFFFFF" opacity="0.200000003" transform="translate(25.000000, 55.000000) scale(-1, 1) translate(-25.000000, -55.000000) " points="50 80 -5.67601521e-13 80 -5.67601521e-13 78 48 78 48 30 50 30"></polygon>
+        </g>
+    </g>
+</svg>
